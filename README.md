@@ -1,7 +1,7 @@
 # LARA  
 目标
 ---  
-复现论文《LARA Attribute-to-feature Adversarial Learning for New-item Recommendation》  
+在movielens数据集上复现论文《LARA Attribute-to-feature Adversarial Learning for New-item Recommendation》  
 
 学生信息  
 ---  

@@ -9,8 +9,8 @@
 
 运行结果截图 
 ---  
-![score](https://github.com/Chenchenxxx/LARA/LARA/IMG/score.png)  
+![score](LARA//IMG//score.png)  
 
-![result1](https://github.com/Chenchenxxx/LARA/LARA/IMG/result1.png)  
+![result1](LARA//IMG//result1.png)  
 
-![result2](https://github.com/Chenchenxxx/LARA/LARA/IMG/result2.png)  
+![result2](LARA//IMG//result2.png)  
